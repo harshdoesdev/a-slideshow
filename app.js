@@ -1,1 +1,1 @@
-import './src/Slideshow.js';
+import './src/a-slideshow.js';

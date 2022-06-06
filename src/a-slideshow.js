@@ -1,4 +1,4 @@
-import './Slide.js';
+import './a-slide.js';
 
 const template = document.createElement("template");
 

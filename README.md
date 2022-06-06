@@ -4,7 +4,7 @@ A Web Component For Pure HTML Slideshows
 ## Usage
 **app.js**
 ```javascript
-import '/src/Slideshow.js'
+import '/src/a-slideshow.js' // or import 'https://cdn.jsdelivr.net/gh/rare-earth/a-slideshow/src/a-slideshow.js'
 ```
 
 **index.html**
